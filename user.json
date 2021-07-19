@@ -1,0 +1,9 @@
+{
+    "username" : "user",
+    "textures" : {
+        "default" : "milton",
+        "slim" : null,
+        "cape" : null,
+        "elytra" : null
+    }
+}
