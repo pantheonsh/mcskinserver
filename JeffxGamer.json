@@ -1,0 +1,9 @@
+{
+    "username" : "JeffxGamer",
+    "textures" : {
+        "default" : "jeff",
+        "slim" : "jeff",
+        "cape" : null,
+        "elytra" : null
+    }
+}
