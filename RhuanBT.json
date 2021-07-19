@@ -1,0 +1,9 @@
+{
+    "username" : "RhuanBT",
+    "textures" : {
+        "default" : "rhuan",
+        "slim" : "rhuan",
+        "cape" : null,
+        "elytra" : null
+    }
+}
