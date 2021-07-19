@@ -2,7 +2,7 @@
     "username" : "user",
     "textures" : {
         "default" : "milton",
-        "slim" : null,
+        "slim" : "milton",
         "cape" : null,
         "elytra" : null
     }

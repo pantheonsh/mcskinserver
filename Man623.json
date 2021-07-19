@@ -1,0 +1,9 @@
+{
+    "username" : "Man623",
+    "textures" : {
+        "default" : "dorito",
+        "slim" : "dorito",
+        "cape" : null,
+        "elytra" : null
+    }
+}
