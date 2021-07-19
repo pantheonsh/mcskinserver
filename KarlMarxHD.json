@@ -1,7 +1,7 @@
 {
     "username" : "KarlMarxHD",
     "textures" : {
-        "default" : null,
+        "default" : "zuerao",
         "slim" : "zuerao",
         "cape" : null,
         "elytra" : null
