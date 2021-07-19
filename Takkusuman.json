@@ -1,0 +1,9 @@
+{
+    "username" : "Takkusuman",
+    "textures" : {
+        "default" : "taxman",
+        "slim" : "taxman",
+        "cape" : null,
+        "elytra" : null
+    }
+}
