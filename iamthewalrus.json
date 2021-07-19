@@ -1,0 +1,9 @@
+{
+    "username" : "iamthewalrus",
+    "textures" : {
+        "default" : "walrus",
+        "slim" : "walrus",
+        "cape" : null,
+        "elytra" : null
+    }
+}
