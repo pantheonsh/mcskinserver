@@ -1,0 +1,9 @@
+{
+    "username" : "Stefannofornari",
+    "textures" : {
+        "default" : "forno",
+        "slim" : "forno",
+        "cape" : null,
+        "elytra" : null
+    }
+}
