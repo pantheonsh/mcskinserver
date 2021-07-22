@@ -1,0 +1,9 @@
+{
+    "username" : "Cuca Beludo",
+    "textures" : {
+        "default" : "cuca",
+        "slim" : "cuca",
+        "cape" : null,
+        "elytra" : null
+    }
+}
